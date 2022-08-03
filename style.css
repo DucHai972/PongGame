@@ -1,0 +1,39 @@
+#body  {
+    background-color: #222;
+}
+
+#gameContainer  {
+    text-align: center;
+    transform: translate(0%, 30%);
+}
+
+#gameBoard  {
+    border: 5px solid black;
+}
+
+#score  {
+    font-family: cursive;
+    font-size: 70px;
+}
+
+#res  {
+    font-family: cursive;
+    font-size: 70px;
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color: white;
+    cursor: pointer;
+}
+
+#play  {
+    position: absolute;
+    top: 190px;
+    transform: translate(80%, 20%);
+    font-family: cursive;
+    font-size: 70px;
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color: white;
+    cursor: pointer;
+    
+}
